@@ -1,0 +1,1 @@
+This is my assignment from The Odin Project website. In this lesson i hope to be able to build the very foundation of my website without having to rely on the Odin Project website or google, though i will not force myself to do it alone if i don't understand how to do something in my code!
