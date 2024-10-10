@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.Recipes {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+p {
+    text-align: center;
+}

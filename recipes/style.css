@@ -1,0 +1,13 @@
+h1,
+p,
+.recipeimg,
+h2 {
+    text-align: center;
+    
+}
+
+.recipeimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
